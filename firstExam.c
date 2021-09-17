@@ -8,6 +8,6 @@
 
 int main(int arc, char* argv[]) {
 
-
+  printf("hello.c\n");
   return 0;
 }
